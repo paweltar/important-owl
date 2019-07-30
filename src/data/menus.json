@@ -1,1 +1,9 @@
-{}
+{
+  "main": [
+    {
+      "identifier": "my-test-menu",
+      "title": "Test Menu Item",
+      "url": "/contact"
+    }
+  ]
+}
